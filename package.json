@@ -1,0 +1,29 @@
+{
+  "name": "tailit",
+  "version": "0.0.1",
+  "description": "tail -f log with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imZack/tailit.git"
+  },
+  "keywords": [
+    "tail",
+    "log",
+    "websocket"
+  ],
+  "author": "YuLun Shih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imZack/tailit/issues"
+  },
+  "homepage": "https://github.com/imZack/tailit#readme",
+  "dependencies": {
+    "express": "^4.13.0",
+    "serve-static": "^1.10.0",
+    "socket.io": "^1.3.5"
+  }
+}
