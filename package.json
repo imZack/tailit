@@ -1,6 +1,6 @@
 {
   "name": "tailit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tail -f log with websocket",
   "main": "index.js",
   "bin": "index.js",
