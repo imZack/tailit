@@ -15,3 +15,4 @@ tail -f log with WebSocket
 Visit http://localhost:8080
 
 ## License
+MIT
